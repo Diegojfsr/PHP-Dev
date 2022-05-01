@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+form{
+    width: 500px;
+    margin:  30px auto;
+    background-color: #ccc;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+table{
+    width: 500px;
+    margin: auto;
+}
+
+label{
+    display: block;
+}
+
+input{
+    width: 100%;
+}
+
+table{
+    width: 500px;
+    margin: auto;
+    border: 1px dotted #000;
+}
+
+td{
+    border-bottom: 1px solid #000;
+    background-color: #ccc;
+    padding: 2px;
+}
+
+
+
